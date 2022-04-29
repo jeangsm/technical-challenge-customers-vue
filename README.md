@@ -1,4 +1,20 @@
-# teste-customers-vue
+# Technical Challenge - Customers Vue
+
+## To do
+- Improve input validation on create and update views
+- Fix invalid date range bug on create and update views
+- Fix breadcumb divider
+- Fix page titles
+- Put snackbars on create and update actions
+- Favicon
+- OG metatags
+
+## Production
+
+The build was hosted on AWS with CloudFront and S3. You can check with the link bellow:
+https://customersvue.jeanmedeiros.com.br
+
+
 
 ## Project setup
 ```
